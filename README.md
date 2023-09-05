@@ -16,3 +16,5 @@ UPDATE=0 - Update off (install)<br />
 # Uninstall
 ./agent-linux.sh uninstall
 
+# Thanks for some code blocks
+https://github.com/netvolt/LinuxRMM-Script/
