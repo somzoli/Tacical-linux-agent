@@ -1,7 +1,7 @@
 # Tacical-linux-agent
 
 # Usage
-Download the script fill variables and run. 
+Download the script; fill variables and run. 
 
 ```bash
 ./agent-linux.sh
