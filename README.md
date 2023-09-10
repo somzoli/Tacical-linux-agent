@@ -14,7 +14,7 @@ Download the script; fill variables and run.
 **INSECURE=0** - Insecure for testing only<br />
 **NOMESH=0** - No mesh install (for update)<br />
 **UPDATE=0** - Update off (install)<br />
-**meshDL** - The url given by mesh for installing new agent. Go to mesh.example.com > Add agent > Installation Executable Linux / BSD / macOS > Select the good system type Copy ONLY the URL with the quote<br />
+**meshDL** - The url given by mesh for installing new agent. Go to mesh.example.com > Add agent > Installation Executable Linux / BSD / macOS > Select the good system type (Apple OSX universal/Linux) Copy ONLY the URL with the quote<br />
 **apiURL** - Your api URL (https://api.example.com)<br />
 **token** - Follow the manual Windows installation instructions (copy api token) <br />
 **clientID** - Follow the manual Windows installation instructions (copy client id) <br />
