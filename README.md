@@ -6,6 +6,8 @@ Download the script; fill variables and run.
 ```bash
 ./agent-linux.sh
 ./agent-linux_update.sh
+./agent_mac.sh
+./agent_mac_update.sh
 ```
 # Variables
 **DEBUG=0** - Debug log level<br />
