@@ -23,6 +23,7 @@ Download the script; fill variables and run.
 
 # Uninstall
 ./agent-linux.sh uninstall
+./agent_mac.sh uninstall
 
 # Thanks for some code blocks
 https://github.com/netvolt/LinuxRMM-Script/
